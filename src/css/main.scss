@@ -1,0 +1,13 @@
+@import "zero";
+
+body {
+  padding: 30px;
+}
+
+.block {
+  border: 3px solid #000000;
+  height: 300px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px #000000;
+  background: url("/src/img/1.jpg");
+}
